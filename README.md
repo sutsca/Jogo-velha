@@ -1,2 +1,2 @@
 # Jogo-velha
- Criei um jogo da velha em html e css
+ Criei um jogo da velha com html e css.
